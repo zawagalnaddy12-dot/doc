@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://doc-7gd.pages.dev/sitemap.xml
